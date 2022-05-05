@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**DiogoEngh/DiogoEngh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning Java and React Native
 - 👯 I’m looking to collaborate on systems develop
@@ -12,4 +7,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: you can to go in contact with me in my email "diogoficial38@gmail.com"
 - 😄 Pronouns: he
 - ⚡ Fun fact: i'm like of read and watch One Piece
--->
