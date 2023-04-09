@@ -1,4 +1,7 @@
-### Olá, me chamo Dio
+# Diogo Dionísio
+### I'm a brazilian software developer.
+
+#### My website: diogodionisio.com
 
 <h2 align="left">Statistics</h2>
 <div>
