@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Diogo Dionísio
 
-Sou desenvolvedor backend com mais de 3 anos de experiência, especializado em **.NET** e **NestJS**. Atuo no desenvolvimento de soluções escaláveis e de alta performance, aplicando boas práticas de arquitetura, testes automatizados e clean code para garantir qualidade e manutenibilidade.
+Sou desenvolvedor backend com mais de 2 anos de experiência profissional, especializado em **.NET** e **NestJS**. Atuo no desenvolvimento de soluções escaláveis e de alta performance, aplicando boas práticas de arquitetura, testes automatizados e clean code para garantir qualidade e manutenibilidade.
 
 Tenho forte capacidade de análise e resolução de problemas, colaborando em equipes ágeis com foco na entrega contínua de valor. Estou em constante evolução técnica e profissional, sempre buscando aprimorar minhas habilidades e contribuir ativamente para o sucesso dos projetos em que atuo.
 
